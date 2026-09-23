@@ -1,0 +1,11 @@
+name = "sava-spin-casino-com-gr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=sava-spin-casino.com.gr"
+HMAC_KEY = "d62ba88fc81b939ac44c935cb956e9009ba696227d44242990631d8164e128e7"
+COOKIE_NAME = "xmn"
+PLAY_PATH = "join-now"
+BUTTON_ID = "p3a0b1e36cefc3eb046a0964f3d920d6b"
+GATE_SALT = "d73b609472b524fa"
